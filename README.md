@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a **competitive programmer** and a **full-stack web developer** passionate about building impactful tech products.  
+I'm a **competitive programmer** and a **frontend focused web developer** passionate about building impactful tech products.  
 I enjoy solving complex DSA problems and applying clean design principles in backend and frontend development.
 
 - 👨‍💻 Solved **1500+ DSA problems** on LeetCode, Codeforces, CodeChef, GFG
