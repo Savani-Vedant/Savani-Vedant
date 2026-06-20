@@ -1,54 +1,96 @@
 # 👋 Hi, I'm Vedant Savani
 
-🎓 **B.Tech in Information and Communication Technology**  
-📍 Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)  
-📧 [savanivedant8107@gmail.com](mailto:savanivedant8107@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/vedant-savani-63242826a/) | [GitHub](https://github.com/Savani-Vedant)
+🎓 **B.Tech in Information & Communication Technology**
+📍 **Dhirubhai Ambani University (Formerly DA-IICT), Gandhinagar, Gujarat**
+📧 [savanivedant8107@gmail.com](mailto:savanivedant8107@gmail.com)
+📱 +91 8866988181
+🔗 [LinkedIn](https://www.linkedin.com/in/vedant-savani/) | [GitHub](https://github.com/Savani-Vedant)
 
 ---
 
 ## 🚀 About Me
 
-I'm a **competitive programmer** and a **frontend focused web developer** passionate about building impactful tech products.  
-I enjoy solving complex DSA problems and applying clean design principles in backend and frontend development.
+I'm a software developer and competitive programmer with a strong interest in **backend development, data systems, and problem solving**.
+I enjoy building practical software systems, working on full-stack applications, and solving DSA problems consistently.
 
-- 👨‍💻 Solved **1500+ DSA problems** on LeetCode, Codeforces, CodeChef, GFG
-- 🔧 Codeforces Max Rating: **1411 (Specialist)** | CodeChef Max Rating: **1696 (3 Star)**
-- 💼 Web Development Intern at **Sparks to Idea**
-- 🛠️ Built **CurePoint** – a full-stack Healthcare Appointment App using MERN stack
-
----
-
-## 🧠 Technical Skills
-
-- **Languages:** C, C++, HTML, CSS, JavaScript, SQL
-- **Frameworks & Tools:** React.js, Node.js, Express.js, Tailwind CSS, MongoDB, PostgreSQL, Git, Postman, Render, Cloudinary
-- **Dev Tools:** VS Code, Figma, GitHub, macOS Terminal
-- **Cloud:** AWS (Basics)
-- **Other Interests:** Volleyball, Badminton, Team Events
+* 👨‍💻 Solved **1700+ DSA problems** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks
+* ⭐ **Codeforces Max Rating:** 1411 (Specialist)
+* ⭐ **CodeChef Max Rating:** 1696 (3 Star)
+* 💡 Interested in **software development, cloud applications, and data engineering**
 
 ---
 
 ## 💻 Projects
 
-### 🔹 [CurePoint](https://github.com/Savani-Vedant)  
-Full-stack healthcare platform for booking and managing appointments with role-based access (Patients, Doctors, Admins).  
-**Stack:** MongoDB, Express, React, Node.js, JWT
+### **Student Documents Service Portal**
 
-### 🔹 [Load Balancer Simulator](https://github.com/Savani-Vedant/Load-Balancer-Simulator)  
-Simulates real-world request routing across servers using OOP and C++ multithreading.
+**Tech Stack:** React.js, Node.js, Express.js, MySQL, REST APIs
 
-### 🔹 [Special Ops](https://github.com/Savani-Vedant/Special-Ops)  
-A PostgreSQL-based structured game database inspired by Call of Duty.
+* Developed a full-stack web portal for students to request academic documents such as bona fide certificates and mark sheets, replacing the manual email-based process.
+* Built separate student and admin dashboards to manage document requests, track application status, and simplify the approval and issuance process.
+* Implemented backend APIs, MySQL database operations, automated email notifications, and secure online payment gateway integration.
+
+---
+
+### **Load Balancer Simulator**
+
+**Tech Stack:** C++, OOP, Multithreading
+🔗 [GitHub Repository](https://github.com/Savani-Vedant/Load-Balancer-Simulator)
+
+* Built a console-based simulator to model request distribution using object-oriented programming principles.
+* Implemented **round-robin, least-connections, and hash-based routing** strategies.
+
+---
+
+### **Special Ops**
+
+**Tech Stack:** PostgreSQL, Database Design
+🔗 [GitHub Repository](https://github.com/Savani-Vedant/Special-Ops)
+
+* Designed and structured a SQL-based database for a Call of Duty-themed game.
+* Created ER diagrams, relational schema, and normalization workflows, and executed queries to ensure data integrity and analyze relationships.
+
+---
+
+## 🧠 Technical Skills
+
+### **Languages**
+
+C, C++, HTML, CSS, JavaScript, TypeScript, SQL
+
+### **Developer Tools**
+
+Git, GitHub, Postman, VS Code
+
+### **Libraries & Frameworks**
+
+React, Node.js, Express.js, Tailwind CSS
+
+### **Databases & Cloud**
+
+MongoDB, PostgreSQL, MySQL, Cloudinary, ImageKit
+
+### **Coursework**
+
+Data Structures and Algorithms, Operating Systems, Object-Oriented Programming, DBMS
 
 ---
 
 ## 🏆 Achievements
 
-- 🔢 **Top 0.5%** in Gujarat ACPC Engineering Admissions
-- ⭐ **LeetCode Max Rating:** 1633 | **GFG Score:** 1749+
-- 💡 Core Member, **Sports Committee** & **Anti-Ragging Vigilance Committee** at DAIICT
+* Solved **1700+ Data Structures and Algorithms problems** across major coding platforms.
+* Achieved **Codeforces max rating of 1411 (Specialist)** and **CodeChef max rating of 1696 (3-star)**.
+* Achieved a **LeetCode max rating of 1706** and a **GeeksforGeeks score of 1749**.
+* Secured **128th rank in Gujarat ACPC engineering admissions**, ranking in the **top 0.5%** among **25,000+ candidates**.
 
 ---
 
-> “Stay curious. Stay persistent. Keep coding.” 💻✨
+## 📫 Let's Connect
+
+* **Email:** [savanivedant8107@gmail.com](mailto:savanivedant8107@gmail.com)
+* **LinkedIn:** [linkedin.com/in/vedant-savani](https://www.linkedin.com/in/vedant-savani/)
+* **GitHub:** [github.com/Savani-Vedant](https://github.com/Savani-Vedant)
+
+---
+
+⭐️ Feel free to explore my repositories and connect with me!
